@@ -1,17 +1,17 @@
 {
-  "version": "3.4.0",
+  "version": "3.3.2",
   "channel": "stable",
-  "publishedAt": "2026-09-06T07:13:36Z",
-  "releaseNotes": "RIALA v3.4.0: redesigned Reports UI and final report fixes.",
+  "publishedAt": "2026-09-05T03:30:24.359Z",
+  "releaseNotes": "RIALA v3.3.2: secure in-app update system.",
   "setup": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.4.0/RIALA_Setup_v3.4.0.exe",
-    "sha256": "8864358ba6147c9709df0b3852e0f12be6d1d52ca245a0066fb3ac26f85c752d",
-    "size": 102894110
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.3.2/RIALA_Setup_v3.3.2.exe",
+    "sha256": "ce242372d5ac0035dd36de4ff14a1b2e4e4230b61224a3272993b4e7fe47755f",
+    "size": 103285801
   },
   "portable": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.4.0/RIALA_Portable_v3.4.0.exe",
-    "sha256": "9e53fe3ffedcf8293ed8a36d23f7fd252f0a9957daa017c2dfb36fda6c2b3412",
-    "size": 102516456
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.3.2/RIALA_Portable_v3.3.2.exe",
+    "sha256": "efeaf87e1e4558a68f914b8262c75573adab3e8aa19e3468fbf8aa82541b7fb6",
+    "size": 102908146
   },
   "schemaVersion": 1
 }
