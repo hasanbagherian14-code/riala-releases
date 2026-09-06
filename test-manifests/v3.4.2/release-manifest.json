@@ -1,0 +1,17 @@
+{
+  "version": "3.4.2",
+  "channel": "stable",
+  "publishedAt": "2026-09-06T17:17:02.000Z",
+  "releaseNotes": "RIALA v3.4.2 updater end-to-end test manifest. Test-only; the public release-manifest.json remains unchanged.",
+  "setup": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.4.2/RIALA_Setup_v3.4.2.exe",
+    "sha256": "890ff1a6deca6138042cd5243bf4b8d3b2a7f5abb306719daac77c3377390710",
+    "size": 103140346
+  },
+  "portable": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.4.2/RIALA_Portable_v3.4.2.exe",
+    "sha256": "c115ad9ce31072af54617da99296b080a50f98024c9bcd1eb9475670e577b42d",
+    "size": 102762686
+  },
+  "schemaVersion": 1
+}
