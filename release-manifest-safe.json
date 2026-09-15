@@ -1,0 +1,18 @@
+{
+  "version": "3.5.4",
+  "channel": "stable",
+  "schemaVersion": 1,
+  "minimumSupportedVersion": "3.4.4",
+  "publishedAt": "2026-09-15T05:24:50.0392748Z",
+  "releaseNotes": "Runtime Sidebar version label fix; updater minimum-version and download hardening; runtime-authoritative build type; targeted staging cleanup after successful completion; migration to the safe manifest endpoint. Schema remains 13; no financial logic changes.",
+  "setup": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.4/RIALA_Setup_v3.5.4.exe",
+    "sha256": "9F65E3D73605AD69144513C72B0DAC17EE3EBB9A4C35F7FE31F8383404522FAB",
+    "size": 103153726
+  },
+  "portable": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.4/RIALA_Portable_v3.5.4.exe",
+    "sha256": "E7557D0BEAC34D837FE19E82F3689DF19F7FC230B70175D73A6898F87616E2F0",
+    "size": 102776073
+  }
+}
