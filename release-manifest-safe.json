@@ -1,18 +1,18 @@
 {
-    "version":  "3.5.7",
+    "version":  "3.5.5",
     "channel":  "stable",
     "schemaVersion":  1,
     "minimumSupportedVersion":  "3.4.4",
-    "publishedAt":  "2026-09-17T11:00:56Z",
-    "releaseNotes":  "Startup reliability hotfix: one-time recovery of stale Electron/Chromium cache directories that can cause post-update splash hangs or blank windows. Preferences, Local Storage, financial data, and accounting logic are preserved. Existing renderer startup retry protection remains in place. Core DB Schema remains 13.",
+    "publishedAt":  "2026-09-17T01:29:45Z",
+    "releaseNotes":  "Fiscal Year Integrity hardening; cross-fiscal write confirmation; active-fiscal-year transaction filtering; UI/font scaling fixes; Close Fiscal Year modal fixes; Safe Edit and Option Management improvements; Smart Ordering; removal of LIMIT 100 financial-query truncation; updater Settings feedback improvements; packaged XLSM resource fix. Core DB Schema remains 13.",
     "setup":  {
-                  "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.7/RIALA_Setup_v3.5.7.exe",
-                  "sha256":  "773DECCED8B1D116D85ACE413FF73DD42EB47D13BD15F12517F18D639F3492AD",
-                  "size":  103308840
+                  "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Setup_v3.5.5.exe",
+                  "sha256":  "AEDC0BA5D07A849E48473BAA1C9AE7380EC084990F9FF7B62BF7C44D3559E6F8",
+                  "size":  103307866
               },
     "portable":  {
-                     "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.7/RIALA_Portable_v3.5.7.exe",
-                     "sha256":  "2118C15AEED0FE9ADD628DEB79582190187DB5B40FEF4FDB3C8CCDBF86B094B7",
-                     "size":  102931187
+                     "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Portable_v3.5.5.exe",
+                     "sha256":  "F46E52129BA03AD3551E093746D8200C5D564456469ACAE727F580D115D582DC",
+                     "size":  102930212
                  }
 }
