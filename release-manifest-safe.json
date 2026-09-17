@@ -1,18 +1,18 @@
 {
-  "version": "3.5.4",
-  "channel": "stable",
-  "schemaVersion": 1,
-  "minimumSupportedVersion": "3.4.4",
-  "publishedAt": "2026-09-15T05:24:50.0392748Z",
-  "releaseNotes": "Runtime Sidebar version label fix; updater minimum-version and download hardening; runtime-authoritative build type; targeted staging cleanup after successful completion; migration to the safe manifest endpoint. Schema remains 13; no financial logic changes.",
-  "setup": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.4/RIALA_Setup_v3.5.4.exe",
-    "sha256": "9F65E3D73605AD69144513C72B0DAC17EE3EBB9A4C35F7FE31F8383404522FAB",
-    "size": 103153726
-  },
-  "portable": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.4/RIALA_Portable_v3.5.4.exe",
-    "sha256": "E7557D0BEAC34D837FE19E82F3689DF19F7FC230B70175D73A6898F87616E2F0",
-    "size": 102776073
-  }
+    "version":  "3.5.5",
+    "channel":  "stable",
+    "schemaVersion":  1,
+    "minimumSupportedVersion":  "3.4.4",
+    "publishedAt":  "2026-09-17T01:29:45Z",
+    "releaseNotes":  "Fiscal Year Integrity hardening; cross-fiscal write confirmation; active-fiscal-year transaction filtering; UI/font scaling fixes; Close Fiscal Year modal fixes; Safe Edit and Option Management improvements; Smart Ordering; removal of LIMIT 100 financial-query truncation; updater Settings feedback improvements; packaged XLSM resource fix. Core DB Schema remains 13.",
+    "setup":  {
+                  "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Setup_v3.5.5.exe",
+                  "sha256":  "AEDC0BA5D07A849E48473BAA1C9AE7380EC084990F9FF7B62BF7C44D3559E6F8",
+                  "size":  103307866
+              },
+    "portable":  {
+                     "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Portable_v3.5.5.exe",
+                     "sha256":  "F46E52129BA03AD3551E093746D8200C5D564456469ACAE727F580D115D582DC",
+                     "size":  102930212
+                 }
 }
