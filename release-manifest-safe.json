@@ -1,18 +1,18 @@
 {
-    "version":  "3.5.5",
-    "channel":  "stable",
-    "schemaVersion":  1,
-    "minimumSupportedVersion":  "3.4.4",
-    "publishedAt":  "2026-09-17T01:29:45Z",
-    "releaseNotes":  "Fiscal Year Integrity hardening; cross-fiscal write confirmation; active-fiscal-year transaction filtering; UI/font scaling fixes; Close Fiscal Year modal fixes; Safe Edit and Option Management improvements; Smart Ordering; removal of LIMIT 100 financial-query truncation; updater Settings feedback improvements; packaged XLSM resource fix. Core DB Schema remains 13.",
-    "setup":  {
-                  "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Setup_v3.5.5.exe",
-                  "sha256":  "AEDC0BA5D07A849E48473BAA1C9AE7380EC084990F9FF7B62BF7C44D3559E6F8",
-                  "size":  103307866
-              },
-    "portable":  {
-                     "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.5/RIALA_Portable_v3.5.5.exe",
-                     "sha256":  "F46E52129BA03AD3551E093746D8200C5D564456469ACAE727F580D115D582DC",
-                     "size":  102930212
-                 }
+  "version": "3.5.6",
+  "channel": "stable",
+  "schemaVersion": 1,
+  "minimumSupportedVersion": "3.4.4",
+  "publishedAt": "2026-09-17T10:01:47Z",
+  "releaseNotes": "Startup Reliability hotfix: adds bounded retry and timeout recovery for packaged renderer startup loading, addressing the intermittent post-update cold-start hang / ERR_FAILED observed after v3.5.5. Financial logic is unchanged and Core DB Schema remains 13.",
+  "setup": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.6/RIALA_Setup_v3.5.6.exe",
+    "sha256": "E9F1B76305B913361E8FDCF811C6FC61833B816BBD3AA4F22E8E21523E957E25",
+    "size": 103308779
+  },
+  "portable": {
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.6/RIALA_Portable_v3.5.6.exe",
+    "sha256": "A98198B6A4DCA8B1281854AC14F057F0AF8BFDE487D387627CB2D7AB6F57424E",
+    "size": 102931096
+  }
 }
