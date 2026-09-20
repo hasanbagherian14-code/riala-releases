@@ -1,18 +1,18 @@
 {
-  "version": "3.5.9",
+  "version": "3.5.10",
   "channel": "stable",
   "schemaVersion": 1,
   "minimumSupportedVersion": "3.4.4",
-  "publishedAt": "2026-09-20T16:35:31Z",
-  "releaseNotes": "RIALA v3.5.9: fiscal-year-aware transaction date defaults, Persian transaction date display, transaction edit UI fixes, and startup splash-hang fallback and diagnostics. Database schema remains 13.",
+  "publishedAt": "2026-09-20T21:44:50Z",
+  "releaseNotes": "RIALA v3.5.10: canonical internal money unit is integer Rial; validated Core DB migration from schema 13 to 14 and Prediction DB migration from schema 1 to 2. Legacy stored money is multiplied by 10 to preserve prior visible values; exact Rial precision already lost through older Toman rounding cannot be reconstructed automatically.",
   "setup": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.9/RIALA_Setup_v3.5.9.exe",
-    "sha256": "87554711F458D7801CE3A56D77269401AF4AE2646457D1CD13EB7434C4644DCB",
-    "size": 103324361
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.10/RIALA_Setup_v3.5.10.exe",
+    "sha256": "3731DA8382F2F7CA0E892E89C2F82D527064D8E19CE3BAE1FAF8BD4DF176F462",
+    "size": 103329974
   },
   "portable": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.9/RIALA_Portable_v3.5.9.exe",
-    "sha256": "5C349FA2031A1644CDBE67B11362F2AB6F7E324D32EF94750A22C1559339E340",
-    "size": 102946702
+    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.10/RIALA_Portable_v3.5.10.exe",
+    "sha256": "DC20DE3A14B49F25A036099048D2AF34A1491D9451B91C7E2B74660A9DE12BB6",
+    "size": 102952291
   }
 }
