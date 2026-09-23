@@ -1,18 +1,18 @@
 {
-  "version": "3.5.10",
-  "channel": "stable",
-  "schemaVersion": 1,
-  "minimumSupportedVersion": "3.4.4",
-  "publishedAt": "2026-09-20T21:44:50Z",
-  "releaseNotes": "RIALA v3.5.10: canonical internal money unit is integer Rial; validated Core DB migration from schema 13 to 14 and Prediction DB migration from schema 1 to 2. Legacy stored money is multiplied by 10 to preserve prior visible values; exact Rial precision already lost through older Toman rounding cannot be reconstructed automatically.",
-  "setup": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.10/RIALA_Setup_v3.5.10.exe",
-    "sha256": "3731DA8382F2F7CA0E892E89C2F82D527064D8E19CE3BAE1FAF8BD4DF176F462",
-    "size": 103329974
-  },
-  "portable": {
-    "url": "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.10/RIALA_Portable_v3.5.10.exe",
-    "sha256": "DC20DE3A14B49F25A036099048D2AF34A1491D9451B91C7E2B74660A9DE12BB6",
-    "size": 102952291
-  }
+    "version":  "3.5.17",
+    "channel":  "stable",
+    "schemaVersion":  1,
+    "minimumSupportedVersion":  "3.4.4",
+    "publishedAt":  "2026-09-23T17:18:11Z",
+    "releaseNotes":  "RIALA v3.5.17: Technical Logging v1 with privacy-safe structured logs, log rotation, startup/crash/database/updater/IPC diagnostics, diagnostics settings, and secure diagnostic export. Database schema remains 14.",
+    "setup":  {
+                  "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.17/RIALA_Setup_v3.5.17.exe",
+                  "sha256":  "F1F294A4B2A83424CBA9B7CC5FABBBCBA08F7FE7C7E4A21EEB1717F68B4D1F97",
+                  "size":  103375507
+              },
+    "portable":  {
+                     "url":  "https://github.com/hasanbagherian14-code/riala-releases/releases/download/v3.5.17/RIALA_Portable_v3.5.17.exe",
+                     "sha256":  "F0B306C643A59DDBA5D34AF8593E4BC338A037D0EEE8A343B561487D660674AE",
+                     "size":  102997840
+                 }
 }
